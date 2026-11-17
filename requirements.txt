@@ -1,0 +1,8 @@
+# 本地验证环境：Python 3.12，torch 2.11.0+cu128（RTX 50 系）。torch 请按服务器 CUDA 版本另装，见 README。
+numpy==2.5.4
+pandas==3.1.1
+pyarrow==26.0.1
+scipy==1.18.1
+scikit-learn==1.9.1
+tzdata==2026.6
+tabpfn==10.0.0
